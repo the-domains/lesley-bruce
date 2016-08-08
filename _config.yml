@@ -1,4 +1,3 @@
-layout_spectrum: 0.6566970304120332
 typography_spectrum: 0.4362892145290971
 color:
   brandStrength: 0.29639684222638607
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.6566970304120332
 name: Lesley Bruce
 title: Scottish voiceover artist
+description: Your place or mine?
